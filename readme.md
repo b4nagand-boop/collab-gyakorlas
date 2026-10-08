@@ -1,7 +1,7 @@
-##szia sanyi és álmos
+## szia sanyi és álmos
 
-##itt jart almos
+## itt jart almos
 
-##Almos szereti a kolbaszt <3
+## Almos szereti a kolbaszt <3
 
-##.
+## .
